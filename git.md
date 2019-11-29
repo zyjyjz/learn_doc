@@ -31,7 +31,7 @@ git remote
 git remote add origin <repositoryurl>
 #删除关联的远程仓库
 git remote rm origin
-#推送本地分支到远程 -u本地master分支和远程mater分支关联 之后可简化
+#推送本地分支到远程 -u本地master分支和远程master分支关联 之后可简化
 git push -u origin <branch>
 #抓取分支内容
 git pull

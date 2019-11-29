@@ -1,4 +1,9 @@
+
+
+
+
 #### 启动容器
+
 ```shell
 #以交互方式运行WildFly容器.-i允许与STDIN交互-t并将TTY附加到流程。开关可以组合在一起用作-it.
 docker container run -it <IMAGE_NAME> 
